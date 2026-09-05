@@ -6,12 +6,12 @@
   </a>
 </p>
 <img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" alt="Banner" width="100%" />
-📌 About Me
+📌 Sobre mim
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
 🚀 Sempre transformando aprendizado em projetos reais.
 
-🧠 My Focus Areas
+🧠 Areas de focu
 Inteligência Artificial
 Assistentes de IA
 Desenvolvimento de Backend
