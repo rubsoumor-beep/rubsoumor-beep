@@ -1,35 +1,74 @@
-# 🪐 Rubens
+<!-- BANNER NEON COM FUNDO PRETO ABSOLUTO -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
+
+<!-- SUBTÍTULO ANIMADO EM MODO ESCURO -->
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌌 SYSTEM OVERVIEW
 
 > *"Gosto muito de aprender e isso me traz uma certa obsessão por solucionar problemas."*
 
----
-
-### 💻 Minhas Tecnologias & Ecossistema
-
-| 🤖 Inteligência Artificial | ⚙️ Integração & Backend | 💻 Linguagens | 🧰 Controle |
-| :--- | :--- | :--- | :--- |
-| • IA (Modelos) <br> • Prompt Engineering <br> • Dev Assistido por IA | • Node.js <br> • Python | • C# <br> • .NET | • Git <br> • GitHub |
+Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligência Artificial de forma avançada para acelerar o desenvolvimento de softwares funcionais. Sou o idealizador da **Nyra**, uma aplicação construída em ambiente híbrido (Node.js e Python) com o suporte de desenvolvimento assistido por IA.
 
 ---
 
-### 🚀 Projeto em Destaque: Nyra
+## 🛠️ CORE STACK (DARK THEME)
 
-Desenvolvi a **Nyra**, uma aplicação focada em Inteligência Artificial utilizando **Python** e **Node.js**. 
-
-Para construir este projeto, adotei uma abordagem pioneira de **Desenvolvimento Assistido por IA**, utilizando engenharia de prompts avançada para acelerar a escrita do código, resolver bugs e arquitetar a integração estruturada dos serviços.
+<table align="center" border="0" bgcolor="#000000">
+  <tr>
+    <td align="left" width="400" valign="top" bgcolor="#0d1117">
+      <strong color="#00FF66">🤖 INTEGRAÇÃO & IA</strong>
+      <ul>
+        <li>Artificial Intelligence</li>
+        <li>Prompt Engineering</li>
+        <li>AI Assisted Development</li>
+      </ul>
+    </td>
+    <td align="left" width="400" valign="top" bgcolor="#0d1117">
+      <strong color="#00FF66">⚙️ BACKEND & ENGINES</strong>
+      <ul>
+        <li>Node.js / JavaScript</li>
+        <li>Python (Nyra Core)</li>
+        <li>C# / .NET</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Estatísticas do Meu Perfil
+## 📊 METRICS & STATUS
 
-Se os cartões gráficos demorarem a carregar devido ao cache do seu navegador, você verá os links diretos abaixo:
+<p align="center">
+  <!-- Gráficos com o tema oficial Tokyonight (fundo quase preto/azul escuro profundo) -->
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+</p>
 
-- 📊 [Ver minhas estatísticas detalhadas de contribuição](https://vercel.app)
-- 🔤 [Ver linguagens mais utilizadas nos meus repositórios](https://vercel.app)
+<p align="center">
+  <img src="https://herokuapp.com" alt="Streak de commits" width="100%" />
+</p>
 
 ---
 
-### 🌐 Conecte-se Comigo
+## 🌐 CONTACT_
 
-- 👔 **LinkedIn:** [in/rubsoumor-beep](https://linkedin.com)
-- ✉️ **E-mail:** rub.soumor@gmail.com
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rub.soumor@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
