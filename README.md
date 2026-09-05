@@ -1,10 +1,6 @@
 <div align="center">
 
-<img
-  src="./assets/Perfil%20Cyberpunk%20de%20Engenharia%20de%20Software.png"
-  width="100%"
-  alt="Rubens Sousa Morais - Software Engineering"
->
+<img src="./assets/Perfil%20Cyberpunk%20de%20Engenharia%20de%20Software.png" width="100%" alt="Rubens Sousa Morais - Software Engineering">
 
 <br><br>
 
@@ -162,9 +158,7 @@ AUTOMATION
 <div align="center">
 
 <a href="https://github.com/rubsoumor-beep/Nyra-Intelligent-VTuber-AI-Core">
-
 <img src="https://img.shields.io/badge/OPEN%20NYRA-000000?style=for-the-badge&logo=github&logoColor=00FF66">
-
 </a>
 
 </div>
@@ -219,25 +213,12 @@ Quero entender **como elas funcionam**, por que funcionam e como posso utilizá-
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=rubsoumor-beep&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=00FF66"
-width="49%"
-
->
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsoumor-beep&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=00FF66"
-width="49%"
-
->
+<img src="https://github-readme-stats.vercel.app/api?username=rubsoumor-beep&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=00FF66" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsoumor-beep&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=00FF66" width="49%">
 
 <br><br>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rubsoumor-beep&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-
->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubsoumor-beep&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -274,17 +255,11 @@ SISTEMAS INTELIGENTES
 <div align="center">
 
 <a href="mailto:rub.soumor@gmail.com">
-
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF66">
-
 </a>
-
 &nbsp;
-
 <a href="https://github.com/rubsoumor-beep">
-
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF66">
-
 </a>
 
 </div>
