@@ -60,7 +60,6 @@ Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligên
 ## 📊 Métricas de Atividade
 
 <p align="center">
-  <!-- Substitua "rubsoumor-beep" pelo seu username real do GitHub -->
   <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
