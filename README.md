@@ -44,7 +44,7 @@ Em vez de apenas escrever código do zero, foco em **orquestrar e integrar solu�
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <!-- ATENÇÃO: Substitua "SEU-USUARIO-AQUI" pelo seu nome de usuário do GitHub para os gráficos funcionarem -->
+  <!-- ATENÇÃO: Substitua "rubsoumor-beep" pelo seu nome de usuário do GitHub para os gráficos funcionarem -->
   <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
