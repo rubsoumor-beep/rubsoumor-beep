@@ -1,130 +1,79 @@
+<h1 align="center">Hi 👋, I'm Rubens Morais</h1>
+<h3 align="center">Software Engineer</h3>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rubsoumor-beep">
+    <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
+  </a>
+</p>
+📌 About Me
+👨‍💻 Sobre mim
+Estudante de Engenharia de Software focado em IA, automação e backend.
+Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
+🚀 Sempre transformando aprendizado em projetos reais.
+
+🧠 My Focus Areas
+Artificial Intelligence
+AI Assistants
+Backend Development
+Automation
+Computer Vision
+Generative AI
+Software Engineering
+Unity Development
+
+📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/rubsoumor-beep">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubsoumor-beep&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="rubsoumor-beep's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=rubsoumor-beep&theme=onedark&hide_border=true&cache_seconds=86400" alt="rubsoumor-beep's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=rubsoumor-beep&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rubens Morais's GitHub Trophies" />
+</p>
 <div align="center">
-
-# Rubens Sousa Morais
-
-### Software Engineering Student · AI · Unity · C# · Backend
-
-Building software, experimenting with AI and creating intelligent systems.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubsoumor-beep)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="900">
-
-</div>
-
----
-
-# 🛠️ Skills
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### I have
-
-- C#
-- Unity
-- Git
-- GitHub
-- Node.js
-- JavaScript
-- REST APIs
-- Backend development
-
-</td>
-
-<td width="33%" valign="top">
-
-### I'm learning
-
-- Python
-- Java
-- Data Structures
-- Algorithms
-- Linear Algebra
-- Calculus
-- Artificial Intelligence
-
-</td>
-
-<td width="33%" valign="top">
-
-### In progress
-
-- AI assistants
-- Computer Vision
-- Voice assistants
-- Automation
-- Game development
-- Software Engineering
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,unity,nodejs,js,python,java,git,github,vscode&perline=9" />
-
-</div>
-
----
-
-# 🤖 Nyra AI
-
-### Personal AI Assistant
-
-Nyra is my main AI project.
-
-The goal is to create an intelligent assistant capable of:
-
-- 👁️ Computer vision
-- 🎙️ Speech recognition
-- 🔊 Natural voice synthesis
-- 🧠 AI conversations
-- 🖥️ Screen understanding
-- ⚙️ Computer automation
-- 🎮 Unity integration
-- 💾 Persistent memory
-
-### Architecture
-
-```text
-                    ┌─────────────────┐
-                    │     Nyra AI     │
-                    └────────┬────────┘
-                             │
-             ┌───────────────┼───────────────┐
-             │               │               │
-             ▼               ▼               ▼
-        ┌─────────┐     ┌─────────┐     ┌─────────┐
-        │  Unity  │     │ Node.js │     │ Python  │
-        │   C#    │     │ Backend │     │ Vision  │
-        └────┬────┘     └────┬────┘     └────┬────┘
-             │               │               │
-             └───────────────┼───────────────┘
-                             │
-                             ▼
-                       ┌───────────┐
-                       │    AI     │
-                       └───────────┘
+🛠️ Languages & Tools
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
+</p>
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
+</p>
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+</p>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+</p>
+<p align="center">
+  <a href="https://github.com/rubsoumor-beep">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubsoumor-beep&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+![Top language](https://stats.pphat.top/languages?username=rubsoumor-beep)
+<br/>
+🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/rubens-morais-999ba039b"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Rubens Morais's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:rub.soumor@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Rubens Morais's Email"/></a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
