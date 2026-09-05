@@ -20,70 +20,52 @@ jobs:
           # Token especial do Actions, usado só pra commitar o SVG no repo
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # ==========================================================
-          # Base do template (o que aparece na coluna da esquerda:
-          # repositórios, licença, releases, espaço usado, sponsors,
-          # stargazers, forks, watchers, contribuições)
-          # ==========================================================
-          base: "header, activity, community, repositories, metadata"
+          # Layout em colunas, estilo painel
+          config_columns: 3
+          config_display: large
 
-          # ==========================================================
-          # 🏅 Selo de conquistas (o iconezinho no canto do avatar)
-          # ==========================================================
+          # Base: estatísticas de repositórios, comunidade (sponsors,
+          # stargazers, forks, watchers), sem o cabeçalho de bio duplicado
+          base: "repositories, community"
+
+          # 🏅 Selo de conquistas
           plugin_achievements: yes
           plugin_achievements_threshold: C
 
-          # ==========================================================
           # 💡 Hábitos de código e atividade recente
-          # ==========================================================
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: yes
           plugin_habits_days: 14
           plugin_habits_from: 200
 
-          # ==========================================================
           # 📅 Calendário de contribuições em 3D (isométrico)
-          # ==========================================================
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # ==========================================================
           # 🈷️ Linguagens mais usadas
-          # ==========================================================
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
 
-          # ==========================================================
           # 📌 Tópicos/tecnologias dominadas
-          # ==========================================================
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 20
 
-          # ==========================================================
-          # ⏱️ Google PageSpeed Insights (precisa de uma URL pública sua)
-          # Troque pela URL do seu site, ex: https://seudominio.com
-          # ==========================================================
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://example.com
-          plugin_pagespeed_detailed: yes
+          # As linhas abaixo estão desligadas por padrão porque dependem
+          # de coisas que você ainda não tem configuradas. Depois que
+          # tiver, é só trocar "no" por "yes" e preencher os dados.
 
-          # ==========================================================
-          # 🎼 Sugestões de música (Apple Music, não precisa de token extra)
-          # ==========================================================
-          plugin_music: yes
-          plugin_music_provider: applemusic
-          plugin_music_mode: playlist
-          plugin_music_playlist: "" # ID de uma playlist pública da Apple Music (opcional)
-          plugin_music_limit: 4
+          # ⏱️ Precisa de um site seu (troque a URL abaixo)
+          plugin_pagespeed: no
+          # plugin_pagespeed_url: https://seusite.com
 
-          # ==========================================================
-          # 🗂️ Projeto/roadmap (precisa de um "Project" clássico no repo)
-          # ==========================================================
-          plugin_projects: yes
+          # 🎼 Precisa de conta de música conectada
+          plugin_music: no
+
+          # 🗂️ Precisa de um "Project" (clássico) criado no GitHub
+          plugin_projects: no
