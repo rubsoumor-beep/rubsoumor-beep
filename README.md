@@ -1,25 +1,10 @@
-<!-- BANNER DE APRESENTAÇÃO ANIMADO -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+# Olá, eu sou o Rubens! 👋
 
-<!-- TÍTULO COM EFEITO -->
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:rub.soumor@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+### 🚀 Arquiteto de Soluções IA & Entusiasta de Tecnologia
 
 ---
 
-## 🌌 Sobre Mim & Filosofia de Trabalho
+### 🌌 Sobre Mim & Filosofia de Trabalho
 
 > *"Gosto muito de aprender e isso me traz uma certa obsessão por solucionar problemas."*
 
@@ -27,46 +12,31 @@ Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligên
 
 ---
 
-## 🛠️ Stack Tecnológica & Ecossistema
+### 🛠️ Stack Tecnológica & Ecossistema
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="220" valign="top">
-      <h3>🤖 Soluções IA</h3>
-      <img src="https://shields.io" alt="IA"><br><br>
-      <img src="https://shields.io" alt="Prompts"><br><br>
-      <img src="https://shields.io" alt="AI Assisted">
-    </td>
-    <td align="center" width="220" valign="top">
-      <h3>⚙️ Integração & Backend</h3>
-      <img src="https://shields.io" alt="Node.js"><br><br>
-      <img src="https://shields.io" alt="Python">
-    </td>
-    <td align="center" width="220" valign="top">
-      <h3>💻 Linguagens & Sistemas</h3>
-      <img src="https://shields.io" alt="C#"><br><br>
-      <img src="https://shields.io" alt=".NET">
-    </td>
-    <td align="center" width="220" valign="top">
-      <h3>🧰 Controle</h3>
-      <img src="https://shields.io" alt="Git"><br><br>
-      <img src="https://shields.io" alt="GitHub">
-    </td>
-  </tr>
-</table>
+#### 🤖 Soluções IA & Desenvolvimento Assistido
+- **Inteligência Artificial** — Orquestração de modelos e arquitetura de sistemas inteligentes.
+- **Engenharia de Prompts** — Automação e geração de código eficiente através de LLMs.
+
+#### ⚙️ Integração & Backend
+- **Node.js** — Construção de servidores e APIs robustas de integração.
+- **Python** — Scripts de automação, manipulação de dados e conexão com ecossistemas de IA.
+
+#### 💻 Linguagens & Sistemas estruturados
+- **C# / .NET** — Desenvolvimento de sistemas escaláveis e fortemente tipados.
+
+#### 🧰 Ferramentas de Controle
+- **Git & GitHub** — Versionamento de código, controle de ramificações e gerenciamento de repositórios.
 
 ---
 
-## 📊 Métricas de Atividade
+### 🌐 Conecte-se comigo
 
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="Streak de commits" width="100%" />
-</p>
-
-  <img src="https://vercel.app" width="100%" />
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:rub.soumor@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email">
+  </a>
 </p>
