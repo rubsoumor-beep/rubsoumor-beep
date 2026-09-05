@@ -1,42 +1,35 @@
-# Olá, eu sou o Rubens! 👋
-
-### 🚀 Arquiteto de Soluções IA & Entusiasta de Tecnologia
-
----
-
-### 🌌 Sobre Mim & Filosofia de Trabalho
+# 🪐 Rubens
 
 > *"Gosto muito de aprender e isso me traz uma certa obsessão por solucionar problemas."*
 
-Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligência Artificial de forma avançada para acelerar o desenvolvimento de softwares funcionais. Sou o idealizador da **Nyra**, uma aplicação construída com o suporte de metodologias ágeis de desenvolvimento assistido por IA.
+---
+
+### 💻 Minhas Tecnologias & Ecossistema
+
+| 🤖 Inteligência Artificial | ⚙️ Integração & Backend | 💻 Linguagens | 🧰 Controle |
+| :--- | :--- | :--- | :--- |
+| • IA (Modelos) <br> • Prompt Engineering <br> • Dev Assistido por IA | • Node.js <br> • Python | • C# <br> • .NET | • Git <br> • GitHub |
 
 ---
 
-### 🛠️ Stack Tecnológica & Ecossistema
+### 🚀 Projeto em Destaque: Nyra
 
-#### 🤖 Soluções IA & Desenvolvimento Assistido
-- **Inteligência Artificial** — Orquestração de modelos e arquitetura de sistemas inteligentes.
-- **Engenharia de Prompts** — Automação e geração de código eficiente através de LLMs.
+Desenvolvi a **Nyra**, uma aplicação focada em Inteligência Artificial utilizando **Python** e **Node.js**. 
 
-#### ⚙️ Integração & Backend
-- **Node.js** — Construção de servidores e APIs robustas de integração.
-- **Python** — Scripts de automação, manipulação de dados e conexão com ecossistemas de IA.
-
-#### 💻 Linguagens & Sistemas estruturados
-- **C# / .NET** — Desenvolvimento de sistemas escaláveis e fortemente tipados.
-
-#### 🧰 Ferramentas de Controle
-- **Git & GitHub** — Versionamento de código, controle de ramificações e gerenciamento de repositórios.
+Para construir este projeto, adotei uma abordagem pioneira de **Desenvolvimento Assistido por IA**, utilizando engenharia de prompts avançada para acelerar a escrita do código, resolver bugs e arquitetar a integração estruturada dos serviços.
 
 ---
 
-### 🌐 Conecte-se comigo
+### 📊 Estatísticas do Meu Perfil
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:rub.soumor@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+Se os cartões gráficos demorarem a carregar devido ao cache do seu navegador, você verá os links diretos abaixo:
+
+- 📊 [Ver minhas estatísticas detalhadas de contribuição](https://vercel.app)
+- 🔤 [Ver linguagens mais utilizadas nos meus repositórios](https://vercel.app)
+
+---
+
+### 🌐 Conecte-se Comigo
+
+- 👔 **LinkedIn:** [in/rubsoumor-beep](https://linkedin.com)
+- ✉️ **E-mail:** rub.soumor@gmail.com
