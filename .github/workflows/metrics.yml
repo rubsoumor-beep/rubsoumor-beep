@@ -1,73 +1,132 @@
 name: Metrics
+
 on:
-  # Atualiza automaticamente a cada hora
-  schedule: [{ cron: "0 * * * *" }]
-  # Permite rodar manualmente pela aba "Actions" e a cada push
+  schedule:
+    - cron: "0 * * * *"
+
   workflow_dispatch:
-  push: { branches: ["main"] }
+
+  push:
+    branches:
+      - main
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+
+      # ============================================================
+      # 📊 GITHUB STATS
+      # ============================================================
+
+      - name: 📊 GitHub Stats
+        uses: lowlighter/metrics@latest
         with:
-          # Token com escopos: repo, read:user, read:packages, project
+          filename: metrics-stats.svg
+
           token: ${{ secrets.METRICS_TOKEN }}
-          # Token especial do Actions, usado só pra commitar o SVG no repo
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # Layout maior, estilo painel (config_columns não existe, foi removida)
-          config_display: large
-          # Base: estatísticas de repositórios, comunidade (sponsors,
-          # stargazers, forks, watchers), sem o cabeçalho de bio duplicado
+
           base: "repositories, community"
-          # 🏅 Selo de conquistas
-          # Desativado por enquanto: conta nova com pouca atividade causa
-          # "Unexpected error" nesse plugin. Reative quando tiver mais
-          # histórico (basta trocar "no" por "yes" abaixo).
-          plugin_achievements: no
-          plugin_achievements_threshold: C
-          # 💡 Hábitos de código e atividade recente
-          # Mesmo motivo do achievements: desativado até haver mais
-          # commits/diffs recentes para a métrica calcular direito.
-          plugin_habits: no
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-          plugin_habits_days: 14
-          plugin_habits_from: 200
-          # 📅 Calendário de contribuições em 3D (isométrico)
+
+          config_display: large
+
+          extras_css: |
+            svg {
+              background-color: #0d1117 !important;
+            }
+
+            text,
+            tspan {
+              fill: #c9d1d9 !important;
+            }
+
+      # ============================================================
+      # 📅 CALENDÁRIO ISOMÉTRICO
+      # ============================================================
+
+      - name: 📅 Contribution Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-calendar.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: ""
+
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # 🈷️ Linguagens mais usadas
+
+          extras_css: |
+            svg {
+              background-color: #0d1117 !important;
+            }
+
+            text,
+            tspan {
+              fill: #c9d1d9 !important;
+            }
+
+      # ============================================================
+      # 🈷️ LANGUAGES
+      # ============================================================
+
+      - name: 🈷️ Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: ""
+
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          # 📌 Tópicos/tecnologias dominadas — grade de ícones (igual ao exemplo)
+
+          extras_css: |
+            svg {
+              background-color: #0d1117 !important;
+            }
+
+            text,
+            tspan {
+              fill: #c9d1d9 !important;
+            }
+
+      # ============================================================
+      # 📌 TOPICS / TECNOLOGIAS
+      # ============================================================
+
+      - name: 📌 Technologies
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-topics.svg
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: ""
+
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 0
-          # As linhas abaixo estão desligadas por padrão porque dependem
-          # de coisas que você ainda não tem configuradas. Depois que
-          # tiver, é só trocar "no" por "yes" e preencher os dados.
-          # ⏱️ PageSpeed Insights do seu jogo publicado no GitHub Pages
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://rubsoumor-beep.github.io/Retro-Cup-96-Game/
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          # 🎼 Precisa de conta Apple Music Developer conectada
-          # (geralmente requer assinatura paga da Apple Developer Program)
-          plugin_music: no
-          # 🗂️ Precisa de um "Project" (clássico) criado no GitHub.
-          # Crie um em github.com/users/rubsoumor-beep/projects, depois troque
-          # "no" por "yes" e preencha o caminho abaixo
-          plugin_projects: no
-          # plugin_projects_repositories: rubsoumor-beep/rubsoumor-beep/projects/1
-          # 🌙 Força o tema escuro para TODOS os visitantes,
-          # independente do tema (claro/escuro) que a pessoa usa no GitHub
+
           extras_css: |
-            svg { background-color: #0d1117 !important; }
-            text, tspan { fill: #c9d1d9 !important; }
-            h1, h2, h3, .title { fill: #58a6ff !important; }
+            svg {
+              background-color: #0d1117 !important;
+            }
+
+            text,
+            tspan {
+              fill: #c9d1d9 !important;
+            }
