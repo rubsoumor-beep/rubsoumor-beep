@@ -56,6 +56,7 @@ jobs:
           # ⏱️ PageSpeed Insights do seu jogo publicado no GitHub Pages
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://rubsoumor-beep.github.io/Retro-Cup-96-Game/
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           # 🎼 Precisa de conta Apple Music Developer conectada
           # (geralmente requer assinatura paga da Apple Developer Program)
           plugin_music: no
