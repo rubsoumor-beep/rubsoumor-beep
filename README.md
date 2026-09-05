@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Rubens Morais</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Rubens Morais</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rubsoumor-beep">
     <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
+<img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" alt="Banner" width="100%" />
 📌 About Me
-👨‍💻 Sobre mim
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
 🚀 Sempre transformando aprendizado em projetos reais.
 
 🧠 My Focus Areas
-Artificial Intelligence
-AI Assistants
-Backend Development
-Automation
-Computer Vision
-Generative AI
-Software Engineering
-Unity Development
+Inteligência Artificial
+Assistentes de IA
+Desenvolvimento de Backend
+Automação
+Visão Computacional
+IA Generativa
+Engenharia de Software
+Desenvolvimento no Unity
 
 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/rubsoumor-beep">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubsoumor-beep&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="rubsoumor-beep's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubsoumor-beep&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="rubsoumor-beep's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=rubsoumor-beep&theme=onedark&hide_border=true&cache_seconds=86400" alt="rubsoumor-beep's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rubsoumor-beep&theme=dark&hide_border=true&cache_seconds=86400" alt="rubsoumor-beep's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rubsoumor-beep&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rubens Morais's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rubsoumor-beep&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rubens Morais's GitHub Trophies" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -63,7 +63,7 @@ Unity Development
 </p>
 <p align="center">
   <a href="https://github.com/rubsoumor-beep">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubsoumor-beep&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rubsoumor-beep&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 ![Top language](https://stats.pphat.top/languages?username=rubsoumor-beep)
@@ -77,3 +77,6 @@ Unity Development
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
