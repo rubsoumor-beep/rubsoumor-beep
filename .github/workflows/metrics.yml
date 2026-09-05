@@ -23,10 +23,15 @@ jobs:
           # stargazers, forks, watchers), sem o cabeçalho de bio duplicado
           base: "repositories, community"
           # 🏅 Selo de conquistas
-          plugin_achievements: yes
+          # Desativado por enquanto: conta nova com pouca atividade causa
+          # "Unexpected error" nesse plugin. Reative quando tiver mais
+          # histórico (basta trocar "no" por "yes" abaixo).
+          plugin_achievements: no
           plugin_achievements_threshold: C
           # 💡 Hábitos de código e atividade recente
-          plugin_habits: yes
+          # Mesmo motivo do achievements: desativado até haver mais
+          # commits/diffs recentes para a métrica calcular direito.
+          plugin_habits: no
           plugin_habits_charts: yes
           plugin_habits_facts: yes
           plugin_habits_days: 14
