@@ -31,19 +31,24 @@ Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligên
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="300">
-      <h3>🤖 Desenvolvimento Assistido por IA</h3>
+    <td align="center" width="220" valign="top">
+      <h3>🤖 Soluções IA</h3>
       <img src="https://shields.io" alt="IA"><br><br>
       <img src="https://shields.io" alt="Prompts"><br><br>
       <img src="https://shields.io" alt="AI Assisted">
     </td>
-    <td align="center" width="300">
+    <td align="center" width="220" valign="top">
       <h3>⚙️ Integração & Backend</h3>
       <img src="https://shields.io" alt="Node.js"><br><br>
       <img src="https://shields.io" alt="Python">
     </td>
-    <td align="center" width="300">
-      <h3>🧰 Controle & Código</h3>
+    <td align="center" width="220" valign="top">
+      <h3>💻 Linguagens & Sistemas</h3>
+      <img src="https://shields.io" alt="C#"><br><br>
+      <img src="https://shields.io" alt=".NET">
+    </td>
+    <td align="center" width="220" valign="top">
+      <h3>🧰 Controle</h3>
       <img src="https://shields.io" alt="Git"><br><br>
       <img src="https://shields.io" alt="GitHub">
     </td>
