@@ -1,3 +1,57 @@
+
+Claude terminou a resposta
+7fd72080-496d-11eb-8fe0-238b38a0746a.png
+o problema éo codigo por exemplo o fundo e preto entenda eu quero que meu perfil fique assim
+
+Pesquisou na web
+Boa, achei a origem exata! Aquela imagem que você mandou (Simon Lecoq) foi feita usando o próprio repositório-modelo oficial do criador da ferramenta: lowlighter/lowlighter. Ele é um "template repository" no GitHub — ou seja, você pode literalmente copiar a estrutura toda pronta (workflow + CSS do tema escuro) em vez de configurar tudo manualmente.
+
+Pesquisou na web
+Boa notícia: isso não é bug de configuração — é assim que o lowlighter/metrics funciona por padrão! O template "classic" tem suporte nativo a modo claro/escuro automático, baseado no tema do navegador/sistema de quem está olhando (a mesma engenharia dos badges do próprio GitHub).
+
+Ou seja: o card do Simon Lecoq aparece escuro porque ele está navegando no GitHub em modo escuro (dark mode). O seu aparece claro porque você (ou o navegador que tirou o print) está no modo claro.
+
+Teste isso agora:
+
+Verifique também o tema do sistema/navegador
+Se você usa o computador no modo escuro do sistema (Windows/Mac) mas o navegador ainda mostra GitHub claro, verifique também as configurações de aparência do próprio navegador ou do sistema operacional.
+1
+2
+3
+Se depois disso ainda continuar claro (não se adaptou), aí sim é caso de forçar o tema escuro manualmente via CSS, independente de quem está vendo. Nesse caso, adicione isso no seu metrics.yml:
+
+yaml
+extras_css: |
+  svg, .metrics { background-color: #0d1117 !important; }
+  body, text, tspan { fill: #c9d1d9 !important; color: #c9d1d9 !important; }
+Teste primeiro a opção do modo escuro do GitHub (é bem provável que resolva sozinho). Me conta o que aconteceu que eu ajusto o CSS certinho se precisar forçar.
+
+ta, mais a pessoa vaiver minatela escura tbm?
+
+Pensou por 2s
+Ótima pergunta! Não exatamente — é ao contrário do que você imagina.
+
+Como o card se adapta ao tema de quem está olhando (não ao seu), cada visitante vai ver uma versão diferente automaticamente:
+
+Quem visita seu perfil com o GitHub em modo claro → vê o card claro
+Quem visita com o GitHub em modo escuro → vê o card escuro
+Ou seja, ativar o modo escuro na sua própria conta só muda o que você vê, não o que os outros veem. Cada pessoa vê a versão que combina com o tema dela.
+
+Se você quer que TODO MUNDO veja sempre escuro (independente do tema de quem visita, igual no exemplo do Simon Lecoq), você precisa forçar isso via CSS, ignorando a preferência do visitante:
+
+Editou um arquivo, leu um arquivo
+Cole esse arquivo atualizado no seu metrics.yml e rode o workflow de novo. Aviso importante: os nomes exatos das classes CSS (text, tspan, .title, etc.) podem não bater 100% com a estrutura interna do template — pode ser que alguns elementos não fiquem coloridos direito na primeira tentativa. Se sobrar algum texto escuro sobre fundo escuro (ilegível) depois de rodar, me manda um print que eu ajusto o seletor certo.
+
+
+Metrics
+YML 
+
+
+Escreva uma mensagem…
+
+
+Claude é uma IA e pode cometer erros.
+Metrics · YML
 name: Metrics
 on:
   # Atualiza automaticamente a cada hora
@@ -55,3 +109,12 @@ jobs:
           plugin_music: no
           # 🗂️ Precisa de um "Project" (clássico) criado no GitHub
           plugin_projects: no
+          # 🌙 Força o tema escuro para TODOS os visitantes,
+          # independente do tema (claro/escuro) que a pessoa usa no GitHub
+          extras_css: |
+            svg { background-color: #0d1117 !important; }
+            text, tspan { fill: #c9d1d9 !important; }
+            h1, h2, h3, .title { fill: #58a6ff !important; }
+ 
+
+
