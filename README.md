@@ -68,8 +68,5 @@ Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligên
   <img src="https://herokuapp.com" alt="Streak de commits" width="100%" />
 </p>
 
----
-
-<p align="center">
   <img src="https://vercel.app" width="100%" />
 </p>
