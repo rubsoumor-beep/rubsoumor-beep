@@ -1,138 +1,138 @@
 <!-- ============================================================
-     NYRA AI — GITHUB PROFILE README
+     RUBENS — GITHUB PROFILE
      BLACK + NEON GREEN + TOKYONIGHT
      ============================================================ -->
 
-<!-- BANNER -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=NYRA%20AI&fontColor=00FF66&fontSize=70&fontAlignY=40&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=000000&text=RUBENS%20SOUSA&fontColor=00FF66&fontSize=65&fontAlignY=40&animation=fadeIn"
     width="100%"
   />
 </p>
 
-<!-- TYPING -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Node.js+%7C+Python+%7C+C%23;Building+Nyra+AI;AI-Assisted+Software+Development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+%7C+Software+%7C+Automation;Always+Learning+%26+Building;Turning+Problems+Into+Solutions"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-## 🌌 SYSTEM OVERVIEW
+## 👨‍💻 ABOUT ME
 
 > *"Gosto muito de aprender e isso me traz uma certa obsessão por solucionar problemas."*
 
-Foco em **orquestrar e integrar soluções inteligentes**, utilizando Inteligência Artificial de forma avançada para acelerar o desenvolvimento de softwares funcionais.
+Sou estudante de **Engenharia de Software**, interessado em tecnologia, Inteligência Artificial e desenvolvimento de sistemas.
 
-Sou o idealizador da **Nyra**, uma aplicação construída em ambiente híbrido utilizando **Node.js, Python e C#**, com desenvolvimento assistido por Inteligência Artificial.
+Gosto principalmente de entender **como as coisas funcionam**, experimentar diferentes abordagens e transformar problemas em soluções funcionais.
 
-Meu objetivo é explorar a integração entre **IA, software, automação e interação em tempo real**, transformando ideias complexas em sistemas funcionais.
+Tenho interesse especial na integração entre **Inteligência Artificial, software, automação e sistemas interativos**.
+
+Atualmente, meu foco está em ampliar minha base de desenvolvimento e construir projetos que me permitam transformar conhecimento teórico em experiência prática.
 
 ---
 
-## 🤖 NYRA AI
-
-A **Nyra** é meu principal projeto experimental de Inteligência Artificial.
-
-A arquitetura combina diferentes tecnologias para criar uma aplicação capaz de integrar:
-
-* 🧠 Inteligência Artificial
-* 👁️ Visão computacional
-* 🎙️ Reconhecimento de voz
-* 🔊 Síntese de voz
-* ⚙️ Automação
-* 🌐 APIs e serviços
-* 🎮 Unity
-* 🐍 Python
-* 🟢 Node.js
-* 🔷 C#
+## 🧠 WHAT I LIKE
 
 ```text
-                    ┌─────────────────────┐
-                    │       NYRA AI       │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-        ┌─────────┐       ┌─────────┐       ┌─────────┐
-        │ Python  │       │ Node.js │       │ Unity   │
-        │ Vision  │       │ Backend │       │   C#    │
-        └────┬────┘       └────┬────┘       └────┬────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │   AI MODEL    │
-                       └───────────────┘
+┌──────────────────────────────────────────────────────┐
+│                      INTERESTS                       │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│   🤖 Artificial Intelligence                          │
+│   💻 Software Development                             │
+│   ⚙️ Automation                                       │
+│   🧩 Problem Solving                                  │
+│   🌐 Backend & APIs                                   │
+│   🎮 Interactive Applications                          │
+│   🐍 Python                                           │
+│   🟢 Node.js                                          │
+│   🔷 C# / Unity                                       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ CORE STACK
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top" bgcolor="#0d1117">
-
-### 🤖 INTEGRATION & IA
-
-* Artificial Intelligence
-* Prompt Engineering
-* AI-Assisted Development
-* LLM Integration
-* API Integration
-
-    </td>
-
-    <td width="33%" valign="top" bgcolor="#0d1117">
-
-### ⚙️ BACKEND & ENGINES
-
-* Node.js
-* JavaScript
-* Python
-* C#
-* .NET
-* Unity
-
-    </td>
-
-    <td width="33%" valign="top" bgcolor="#0d1117">
-
-### 🌐 SYSTEMS
-
-* REST APIs
-* JSON
-* Git / GitHub
-* Computer Vision
-* Automation
-* Networking
-
-    </td>
-  </tr>
-
-</table>
-
----
-
-## 🧠 TECHNOLOGIES
+## 🛠️ TECHNOLOGIES
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,js,cs,dotnet,unity,git,github,vscode&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js,cs,dotnet,unity,git,github,vscode&theme=dark" />
 </p>
+
+### Currently working with
+
+* 🐍 **Python**
+* 🟢 **Node.js / JavaScript**
+* 🔷 **C#**
+* 🎮 **Unity**
+* 🌐 **REST APIs**
+* 🔀 **Git / GitHub**
+* 🤖 **Artificial Intelligence**
+* 🧠 **Prompt Engineering**
 
 ---
 
-## 📊 GITHUB METRICS
+## 🚀 PROJECTS
+
+### 🤖 Nyra
+
+Meu principal projeto experimental envolvendo **Inteligência Artificial**.
+
+A Nyra é uma aplicação que estou desenvolvendo para explorar a integração entre diferentes tecnologias, incluindo **Python, Node.js, C# / Unity, APIs de IA, voz, visão computacional e automação**.
+
+O projeto funciona principalmente como um laboratório prático para estudar arquitetura, integração de sistemas e aplicações de IA.
+
+---
+
+## 📚 CURRENTLY LEARNING
+
+```text
+                    LEARNING PATH
+
+                         │
+                         ▼
+                ┌─────────────────┐
+                │    SOFTWARE     │
+                │   ENGINEERING   │
+                └────────┬────────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+      Algorithms      Mathematics     Programming
+          │              │              │
+          ▼              ▼              ▼
+     Data Structures  Calculus       Python / C#
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                  Artificial Intelligence
+```
+
+Atualmente estou fortalecendo minha base em:
+
+* Estruturas de dados
+* Algoritmos
+* Álgebra
+* Cálculo
+* Lógica de programação
+* Desenvolvimento de software
+* Inteligência Artificial
+
+---
+
+## 🎯 GOAL
+
+Meu objetivo é me tornar um **engenheiro de software capaz de projetar, desenvolver e integrar sistemas inteligentes**.
+
+Mais do que aprender uma linguagem específica, quero desenvolver a capacidade de:
+
+**entender → projetar → implementar → testar → solucionar problemas.**
+
+---
+
+## 📊 GITHUB
 
 <p align="center">
   <img
@@ -162,47 +162,7 @@ A arquitetura combina diferentes tecnologias para criar uma aplicação capaz de
 
 ---
 
-## 📈 ACTIVITY
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🌌 CURRENT FOCUS
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                    CURRENT STATUS                    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [████████████████████░░░░]  AI Integration          │
-│  [██████████████████░░░░░░]  Backend Development     │
-│  [████████████████░░░░░░░░]  Computer Vision         │
-│  [███████████████░░░░░░░░░]  Unity / C#             │
-│  [██████████████░░░░░░░░░░]  Software Engineering    │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-## 🧪 PHILOSOPHY
-
-> **Learn → Experiment → Break → Understand → Build**
-
-Gosto de entender como as coisas funcionam, experimentar diferentes abordagens e transformar problemas em sistemas funcionais.
-
-A **Nyra** representa exatamente esse processo: um projeto contínuo de aprendizado, experimentação e integração de tecnologias.
-
----
-
-## 🌐 CONTACT
+## 🌐 CONNECT WITH ME
 
 <p align="center">
 
@@ -226,11 +186,17 @@ A **Nyra** representa exatamente esse processo: um projeto contínuo de aprendiz
 
 ---
 
-<!-- FOOTER -->
+<p align="center">
+
+```text
+"Learn. Build. Break. Understand. Improve."
+```
+
+</p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000&fontColor=00FF66"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=000000"
     width="100%"
   />
 </p>
