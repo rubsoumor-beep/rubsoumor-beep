@@ -32,7 +32,7 @@ DESENVOLVIMENTO DE SOFTWARE
 AUTOMAÇÃO
         +
 SISTEMAS INTERATIVOS
-````
+```
 
 ---
 
@@ -269,7 +269,7 @@ SISTEMAS INTELIGENTES
 
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/rubsoumor-beep">
 
@@ -298,18 +298,3 @@ SISTEMAS INTELIGENTES
 `// RUBENS SOUSA MORAIS · SOFTWARE ENGINEERING · AI · AUTOMATION //`
 
 </div>
-```
-
-### O que você precisa fazer agora
-
-**Apague tudo que está atualmente no `README.md` e cole somente o código acima.**
-
-O arquivo da imagem **não precisa ser alterado**. O README já está apontando para exatamente:
-
-```text
-./assets/Perfil%20Cyberpunk%20de%20Engenharia%20de%20Software.png
-```
-
-Seu repositório atualmente ainda mostra o README anterior na página pública, então depois do commit você deverá conseguir ver a nova versão.
-
-**Importante:** eu também removi aqueles números falsos de `1.2K+`, `40+`, `100+` etc. que apareciam na imagem de referência. As estatísticas do GitHub agora serão carregadas dinamicamente pelo seu usuário `rubsoumor-beep`.
