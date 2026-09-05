@@ -205,7 +205,17 @@ Quero entender **como elas funcionam**, por que funcionam e como posso utilizá-
 
 ---
 
-# `07 // GITHUB`
+# `07 // GITHUB METRICS`
+
+<div align="center">
+
+![Metrics](./github-metrics.svg)
+
+</div>
+
+---
+
+# `08 // GITHUB`
 
 <div align="center">
 
@@ -233,7 +243,7 @@ width="100%"
 
 ---
 
-# `08 // OBJETIVO`
+# `09 // OBJETIVO`
 
 Meu objetivo é me tornar um **engenheiro de software capaz de projetar, desenvolver e integrar sistemas inteligentes**.
 
@@ -259,7 +269,7 @@ SISTEMAS INTELIGENTES
 
 ---
 
-# `09 // CONTATO`
+# `10 // CONTATO`
 
 <div align="center">
 
