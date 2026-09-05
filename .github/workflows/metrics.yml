@@ -38,7 +38,7 @@ jobs:
           plugin_habits_from: 200
           # 📅 Calendário de contribuições em 3D (isométrico)
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           # 🈷️ Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
