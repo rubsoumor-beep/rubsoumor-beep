@@ -217,7 +217,7 @@ IMPROVE
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=00FF66"
+src="https://github-readme-stats.vercel.app/api?username=rubsoumor-beep&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=00FF66"
 alt="GitHub Stats"
 />
 
