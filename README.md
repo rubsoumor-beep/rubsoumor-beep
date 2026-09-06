@@ -5,7 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Banner" width="100%" />
 📌 Sobre mim: 
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
