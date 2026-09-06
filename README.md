@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif" height="30px" width="30px"> I'm Rubens Morais</h1>
+<h1 align="center">Hey <img src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif" height="30px" width="30px"> I'm Rubens Morais</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rubsoumor-beep">
