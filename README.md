@@ -5,13 +5,13 @@
     <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk5Z3VreTVleWdtenRhazAxbmE2dHk0cjFoYmZqZjRvYmhzMmJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yNaYQfjvmpwboMAEOr/giphy.gif" alt="Banner" width="100%" />
-📌 About Me
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnk5Z3VreTVleWdtenRhazAxbmE2dHk0cjFoYmZqZjRvYmhzMmJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yNaYQfjvmpwboMAEOr/giphy.gif" alt="Banner" width="100%" height="300"/>
+📌 Sobre mim:
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
 🚀 Sempre transformando aprendizado em projetos reais.
 
-🧠 My Focus Areas
+🧠 Areas:
 Inteligência Artificial
 Assistentes de IA
 Desenvolvimento de Backend
