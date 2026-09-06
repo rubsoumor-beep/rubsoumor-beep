@@ -2,15 +2,16 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rubsoumor-beep">
-    <img src="https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif" alt="rubsoumor-beep's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
-📌 Sobre mim: 
+<img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" alt="Banner" width="50%" height="200" />
+📌 Sobre mim:
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
 🚀 Sempre transformando aprendizado em projetos reais.
 
-🧠 Áreas: 
+🧠 Areas:
 Inteligência Artificial
 Assistentes de IA
 Desenvolvimento de Backend
