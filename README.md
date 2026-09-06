@@ -11,7 +11,7 @@ Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
 🚀 Sempre transformando aprendizado em projetos reais.
 
-🧠 Areas de focu
+🧠 Áreas
 Inteligência Artificial
 Assistentes de IA
 Desenvolvimento de Backend
