@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rubsoumor-beep">
-    <img src="https://komarev.com/ghpvc/?username=rubsoumor-beep&label=Profile%20views&color=00FFFF&style=flat-square" alt="rubsoumor-beep's profile views" />
+    <img src="https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
 <img src="https://media.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="Banner" width="50%" />
