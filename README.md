@@ -5,7 +5,6 @@
     <img src="https://i.pinimg.com/originals/3c/2a/ad/3c2aad38e743710b31103fe2a410f734.gif" alt="rubsoumor-beep's profile views" />
   </a>
 </p>
-<img src="https://media.tenor.com/arL-Och6Y7sAAAAM/connecting-loading.gif" alt="Banner" width="50%" />
 📌 Sobre mim: 
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
