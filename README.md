@@ -20,15 +20,15 @@ Estudante de **Engenharia de Software**, focado em **Inteligência Artificial, B
 
 Construo projetos utilizando **Python, C#, Node.js e Unity**, explorando IA generativa, assistentes inteligentes e sistemas interativos.
 
-> 🚀 Sempre transformando aprendizado em projetos reais.
+> Sempre transformando aprendizado em projetos reais.
 
-### 🧠 Áreas de interesse
+### Áreas de interesse
 
 **Artificial Intelligence** • **Generative AI** • **AI Assistants** • **Backend Development** • **Automation** • **Computer Vision** • **Unity Development**
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />&nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@ Construo projetos utilizando **Python, C#, Node.js e Unity**, explorando IA gene
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rubsoumor-beep&layout=compact&theme=dark&border_radius=10" alt="GitHub Stats" />
@@ -56,7 +56,7 @@ Construo projetos utilizando **Python, C#, Node.js e Unity**, explorando IA gene
 
 ---
 
-### 🔗 Connect with me
+### Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rubens-morais-999ba039b">
