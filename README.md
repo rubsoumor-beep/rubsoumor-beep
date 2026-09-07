@@ -14,7 +14,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
 Estudante de **Engenharia de Software**, focado em **Inteligência Artificial, Backend e Automação**.
 
