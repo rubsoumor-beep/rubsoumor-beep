@@ -10,13 +10,13 @@
 
 <img src="https://i.ibb.co/Vpr0qhrg/connecting-sem-fundo.gif" alt="Banner" width="100%" height="400" style="filter: brightness(1.8) contrast(1.6) saturate(1.4);" />
 
-📌 **Sobre mim:**
+**Sobre mim:**
 
 Estudante de Engenharia de Software focado em IA, automação e backend.
 Construo projetos com Python, C#, Node.js e Unity, explorando IA generativa, visão computacional e assistentes inteligentes.
-🚀 Sempre transformando aprendizado em projetos reais.
+Sempre transformando aprendizado em projetos reais.
 
-🧠 **Areas:**
+**Areas:**
 
 Inteligência Artificial
 Assistentes de IA
@@ -27,7 +27,7 @@ IA Generativa
 Engenharia de Software
 Desenvolvimento no Unity
 
-📊 **GitHub Stats & Trophies**
+**GitHub Stats & Trophies**
 
 <p align="center">
   <a href="https://github.com/rubsoumor-beep">
@@ -45,7 +45,7 @@ Desenvolvimento no Unity
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
-🛠️ **Languages & Tools**
+**Languages & Tools**
 
 <h3 align="center">Programming Languages</h3>
 
@@ -84,7 +84,7 @@ Desenvolvimento no Unity
 
 <br/>
 
-🔗 **Connect with Me**
+**Connect with Me**
 
 <p align="center">
   <a href="www.linkedin.com/in/rubens-morais-999ba039b">
